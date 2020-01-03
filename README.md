@@ -11,7 +11,7 @@ r row column - Reserves a card from the specified row name and column number, pl
 b row column - Buys a card from the specified row name and column number, automatically applying gems and discounts from your bank. Updates your prestige level accordingly.\
 br position - Buys a card from the specified position in your hand of reserved cards. The possible positions range from 1 to 3, with 1 representing the leftmost hand position.\
 ### Running this program
-1) Download and place all files in the same sublevel on your local machine.\
-2) Navigate to their location and compile all .cpp files using clang++ \*.cpp in a Linux terminal.\
+1) Download and place all files in the same sublevel on your local machine.
+2) Navigate to their location and compile all .cpp files using clang++ \*.cpp in a Linux terminal.
 3) Run the executable file using ./a.out splendor.data false, ensuring that your terminal window is maximized. If your display does not support resolutions of at least 1080p, unexpected issues may occur.\
 Note that an up-to-date C++ compiler is required to run this program. This program was intended to use the compiler Clang, and use of other compilers may result in unexpected behavior.
