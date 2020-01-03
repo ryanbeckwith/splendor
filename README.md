@@ -1,6 +1,7 @@
 # splendor
 A console-based implementation of the physical card game known as Splendor. This program includes a robust implementation of the Vector functionality provided natively by C++ in a class called "Vector". Written as a final project for an introductory course in C++.\
 \
+
 ### Rules
 The rules for the game of Splendor can be found at https://www.ultraboardgames.com/splendor/game-rules.php, and a short video tutorial of the rules can be found at https://www.youtube.com/watch?v=2A0CQ0xsrv0. \
 Note that this implementation does not include the "Noble" functionality.
