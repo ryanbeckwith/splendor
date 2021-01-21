@@ -10,11 +10,11 @@ Note that this implementation does not include the "Noble" functionality.
 
 ## Usage
 
-1) p3 color1 color2 color3 - Buys three gems of the specified colors and places them into your gem bank. Note that the valid colors are blue, green, white, red, and pink.
-2) p2 color - Buys two gems of the specified color, so long as that stack of gems is full.
-3) r row column - Reserves a card from the specified row name and column number, placing the card into your hand and giving you a gold gem. Note that the possible rows are m (for Mines), t (for Transport), and v (for Vendors). The possible columns range from 1 to 4, with 1 representing the leftmost column.
-4) b row column - Buys a card from the specified row name and column number, automatically applying gems and discounts from your bank. Updates your prestige level accordingly.
-5) br position - Buys a card from the specified position in your hand of reserved cards. The possible positions range from 1 to 3, with 1 representing the leftmost hand position.
+1) `p3 color1 color2 color3` - Buys three gems of the specified colors and places them into your gem bank. Note that the valid colors are blue, green, white, red, and pink.
+2) `p2 color` - Buys two gems of the specified color, so long as that stack of gems is full.
+3) `r row column` - Reserves a card from the specified row name and column number, placing the card into your hand and giving you a gold gem. Note that the possible rows are m (for Mines), t (for Transport), and v (for Vendors). The possible columns range from 1 to 4, with 1 representing the leftmost column.
+4) `b row column` - Buys a card from the specified row name and column number, automatically applying gems and discounts from your bank. Updates your prestige level accordingly.
+5) `br position` - Buys a card from the specified position in your hand of reserved cards. The possible positions range from 1 to 3, with 1 representing the leftmost hand position.
 
 ## Running this program
 
